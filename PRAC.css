@@ -1,0 +1,1080 @@
+
+@media only screen and (max-width: 768px){
+#topMenu{ 
+    float: right;
+    margin-top: 10px;
+    margin-right: 250px;
+}
+}
+
+
+#topMenu ul li { 
+     float:left;
+    display:inline;
+}
+
+
+#topMenu ul li a{
+    font-size:14px;
+    color:#83867b;
+    font-family: 'roboto_slablight';
+    text-decoration:none;
+    padding: 0 15px;
+    font-weight:bold;
+}
+
+
+/* #topMenu ul li:last-child a{
+    padding-right: 10px;
+} */
+
+
+/* #topMenu ul li a.active,#topMenu ul li a:hover{ 
+    color:#4f38ce;
+} */
+ 
+
+.navabar { 
+    width:50%;
+    /* padding: 100px; */
+
+} 
+  navabar  {
+    color: blue;
+
+  } 
+
+
+ 
+ #heading{ 
+    margin-left: 575px; 
+    margin-top: 30px;
+    float: 100px;
+
+
+    letter-spacing: 5px;
+  }
+
+/* .name1{
+
+     /* margin-left: 200px; */
+    /* top: 100px; */ */
+    /* display: inline-block; */
+    float:right;
+ 
+    
+   
+} */
+
+
+   
+  
+}
+ #heading{ 
+    font-size:14px; 
+    color:#83867b; 
+    font-family: 'roboto_slablight'; 
+    text-decoration:none;
+    padding: 0 15px; 
+    /* font-weight:bold; */
+
+
+    /* letter-spacing: -2px; */
+  
+}
+    
+
+ #logo_img{
+    margin-left: 110px;
+    float: left; 
+    margin-top: 10px; 
+    display: inline;}
+     
+
+/* body{ 
+    /* float: right; */
+    /* margin-top: 10px; */
+    /* margin-right: 250px; */
+}
+ */
+    
+
+
+
+
+
+ 
+
+
+
+/* .border{
+    border: 2px solid gray;
+    padding: 0px 5px;
+    margin: 10PX auto;
+}
+   */
+
+/* #id1{
+    margin-top: 100px;
+}
+ */
+
+.div1{
+    background-color: blue;
+}
+
+
+.div2{
+    /* background-color: rgb(175, 175, 184); */
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    vertical-align: middle;
+    /* border: cornflowerblue; */
+    /* margin: 100px; */
+    /* width: 300px;
+    height: 100px; */
+    width: 200px;
+    height: 200px;
+
+
+    
+}
+.div6{
+    padding: 90px;
+    /* margin-top: auto; */
+    background-color: grey;
+    /* background-image: url('/home/user/Desktop/assignment/WallpaperDog-10940905.jpg'); */
+     height: 500px;
+}
+
+
+.div3{
+    padding: 40px;
+    margin-top: auto;
+    background-color: grey;
+    /* background-image: url('/home/user/Desktop/assignment/WallpaperDog-10940905.jpg'); */
+
+}
+
+.div4{
+    padding: 200px;
+    margin-top: auto;
+    /* background-color:black; */
+    background-image: url("/home/user/Desktop/assignment/5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+
+
+
+button{
+    padding: 1.5%;
+}
+
+.center {
+        text-align: center;
+        background-color: rgb(128, 128, 128);
+        padding:10px;
+        margin-top: auto;
+        border: 1px solid #4CAF50;
+      }
+      
+
+#cpu.jpg{
+    margin-left: 110px;
+    float: left; 
+    margin-top: 10px; 
+    display: inline;}
+     
+
+/* #img1{
+    float: left;
+}
+ */
+
+
+
+.main{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+.inner{
+    width: 500px;
+    height: 500px;
+}
+
+.row{
+    width: 500px;
+    height: 100px;
+}
+
+.img_src{
+    float: left;
+    width: 250px;
+    height: 100px;
+}
+
+.txt_here{
+    float: left;
+    width: 250px;
+    height: 100px;
+}
+
+
+
+#body2{
+    padding: 10px;
+    /* left: -500px; */
+    /* right: 100px; */
+    
+}
+
+/* #body2{
+    padding: 10px;
+} */
+
+#block2{
+    /* position: absolute; */
+    /* height: 80px; */
+    /* margin :10px; */
+    margin-top: 50px;
+    /* margin-left: 550px; */
+    background-color: #4CAF50;
+    left:-210px
+    /* margin-botom:-900px */
+    
+    /* right:100px */
+}
+#block22{
+    margin-top: -120px;
+    margin-left: -500px;
+    /* margin-right: -1000px; */
+   
+} 
+
+/* #block2{
+    margin-top: 100px;
+    left
+} */
+
+#p1{
+    font-style: normal;
+    left: 250px;
+    position: relative;
+    float: left;
+    margin-top: 35px;
+    font-size: 25px;
+    color:rgb(6, 10, 7);
+}
+
+#p222{
+    font-style: normal;
+    left: -120px;
+    position: relative;
+    float: left;
+    top: -120px;
+    margin-top: -500x;
+    font-size: 25px;
+    color:rgb(6, 10, 7);
+}
+
+.div2{
+    position:absolute;
+    margin-left: 950px;
+    margin-top: 20px;
+}
+.button {
+    /* padding: 15px 25px; */
+    font-size: 15px;
+    width: 100px;
+    height: 50px;
+  
+  }
+  
+  .button:hover {background-color:gray
+}
+
+
+
+
+ /* .btn1
+    padding: 10px 20px 10px 20px;
+    background: rgb(166, 245, 102);
+    /* font-weight: bold; */
+    width: 300px;
+    height: 50px;
+} */
+.btn1{
+    width: 500px;
+    height: 100px;
+}
+
+
+.div5{
+    position:static;
+    margin-left: 400px;
+    /* margin-top: 500px; */
+}
+
+#btn2{
+    
+    /* padding: 10px 20px 10px 20px;  */
+    background: rgb(166, 245, 102);
+    /* font-weight: bold; */
+    /* top: -500px */
+    /* left:300px */
+    /* right:100px */
+    /* bottom: 100px; */
+    margin-left:-450px;
+    margin-top: -100px;
+   
+}
+
+
+/* #p3{
+    font-style: normal;
+    left: 150px;
+    position: relative;
+    /* float: left; */
+    /* margin-top: 30x; */
+    font-size: 15px;
+    /* color:rgb(6, 10, 7); */
+} */
+.paragraph{
+    font-style: normal;
+    left: 150px;
+    position: relative;
+    /* float: left; */
+    /* margin-top: 30x; */
+    font-size: 25px;
+    /* color:rgb(6, 10, 7); */
+}
+body {
+    color: black;
+  }
+  
+  h1 {
+    color: black;
+    text-indent: 10px;
+  }
+  p1 {
+    color: black;
+    font-size:25px;
+
+   
+   
+  }
+  p2 {
+    color: black;
+    font-size:20px
+  }
+  #p13 {
+   
+    font-size:20px
+    margin-top: 20px;
+    
+   
+    
+    
+  }
+  p3 {
+    color: black;
+    font-size:20px
+  }
+  p4 {
+    color: black;
+    font-size:20px
+  }
+  p5 {
+    color: black;
+    font-size:20px
+  }
+  p7 {
+    color:white;
+    font-size:500px
+    margin -top :100px;
+   
+  
+
+  }
+
+#block3{
+    position: absolute;
+    /* height: 80px; */
+    margin :10px;
+    margin-top: 200px;
+    margin-left: 600px;
+    background-color: #4CAF50;
+    border: 10px solid transparent;
+}
+
+.div7{
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 500px;
+}
+
+#btn3{
+    padding: 10px 20px 10px 20px;
+    background: rgb(166, 245, 102);
+    /* font-weight: bold; */
+    margin-top: 20px;
+    width: 200px;
+}
+#btn8{
+    padding: 10px 20px 10px 20px;
+    background: rgb(166, 245, 102);
+    /* font-weight: bold; */
+    margin-top: 20px;
+    width: 200px;
+}
+
+
+.div8{
+    position: static;
+    margin-top: auto;
+    text-align: center;
+    background: url("/home/user/Desktop/assignment/WallpaperDog-10940905.jpg");
+    padding: 150px;
+    
+
+    height: 100px;
+}
+
+#block4{
+    position: static;
+    /* height: 400px; */
+    /* margin :500px; */
+    margin-top: -1000px;
+    margin-left: 60px;
+    background-color: #4CAF50;
+   
+}
+
+#p4{
+
+
+    /* align-items: center; */
+    /* padding: 150px; */
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -70px;
+   
+}
+
+#block2{
+    position: absolute;
+    /* height: 80px; */
+    margin :10px;
+    margin-top: 15px;
+    margin-left: 250px;
+    background-color: rgb(48, 130, 223);
+}
+umn
+#block4{
+    position: static;
+    /* height: 80px; */
+    margin :opx;
+    margin-top: 1px;
+    margin-left: 10px;
+    background-color: rgb(48, 130, 223);
+    
+}
+
+.circle1 {
+    background: #bea29a;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    outline-style: auto;
+    outline-color: rgb(48, 130, 223);
+    outline-offset:5px;
+    margin: 15px;
+    outline-width: 50px;
+
+  }
+  
+  #cir_num{
+    padding-left: 20px;
+    font-weight:bold;
+
+
+  }
+  
+.circleb{
+    margin-bottom: 10px;
+    /* display: block; */
+    display: inline-block;
+    
+}
+
+.circleb1{
+    /* position: relative; */
+    display: inline-block;
+}
+
+.circleb2{
+    /* position: relative; */
+    display: inline-block;
+}
+
+.circleb3{
+    /* position: relative; */
+    display: inline-block;
+}
+
+.circleb4{
+    /* position: relative; */
+    display: inline-block;
+}
+
+#btn4{
+    padding: 10px 20px 10px 20px;
+    background: white;
+    /* font-weight: bold; */
+    margin-top: 10px;
+    width: 350px;
+    height: 60px;
+    border-color: rgb(48, 130, 223);
+}
+
+.div9{
+    position: static;
+    margin-top: auto;
+    text-align: center;
+    background-color: #83867b;
+    /* background: url("/home/user/Desktop/assignment/WallpaperDog-10940905.jpg"); */
+    padding: 150px;
+
+    /* background-color: black; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 150px; */
+    
+
+    height: 350px;
+}
+
+#p5{
+
+
+    /* align-items: center; */
+    /* padding: 150px; */
+    font-size: 20px;
+    /* font-weight: bold; */
+    margin-top: -70px;
+    
+    color:black;
+  font-weight: lighter;
+   
+}
+
+.nav {
+    background-color: white; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+  }
+  
+  .nav1 {
+    background-color: white; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+  }
+   
+  #p6{
+
+
+    /* align-items: center; */
+    /* padding: 150px; */
+    font-size: 20px;
+    /* font-weight: bold; */
+    margin-top: 50px;
+   
+}
+
+#btn5{
+    padding: 10px 20px 10px 20px;
+    background-color:rgb(166, 245, 102);
+    /* font-weight: bold; */
+    margin-top: 10px;
+    /* width: 500px;
+    height: 60px; */
+}
+
+.div10{
+    /* position: static; */
+    margin-top: 0px;
+    text-align: center;
+    background: url("/home/user/Desktop/assignment/WallpaperDog-10940905.jpg");
+    padding: 200px;
+
+    /* background-color: black; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 250px; */
+    top: 500px;
+    
+
+    height: 150px;
+}
+#p71{
+    font-size: 100px;
+}
+
+#p7{
+
+
+    /* align-items: center; */
+    /* padding: 150px; */
+    font-size: 25px;
+    /* font-weight: bold; */
+    /* margin-top: 50px; */
+    text-decoration-color: antiquewhite;
+    margin-left: -50px;
+    
+        color:white;;
+        
+    
+   
+}
+
+#p8{
+
+
+    /* align-items: center; */
+    /* padding: 150px; */
+    font-size: 15px;
+    /* font-weight: bold; */
+    margin-top: -200px;
+   
+}
+
+.div11{
+    /* position: relative; */
+    /* margin-top: -20px; */
+    text-align: center; 
+    background: url("/home/user/Desktop/assignment/WallpaperDog-10940905.jpg");
+    /* margin-left: 100px; */
+    /* padding-left: 30px; */
+    /* width: 50%; */
+
+   /* margin-right: -200px; */
+   /* margin-left: -200px; */
+    /* background-color: black; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 250px; */
+    margin: -80px;
+    width: -300px;
+    
+
+    height: 500px;
+    
+}
+
+
+.column {
+    /* float: left; */
+    /* width: 33.33%; */
+     padding: 5px; 
+     display: inline-block;
+
+
+
+     /* background: #bea29a; */
+     /* width: 50px; */
+     /* height: 50px; */
+     border-radius: 50%;
+     /* display: flex; */
+     /* align-items: center; */
+     /* text-align: center; */
+     /* outline-style: auto; */
+     outline-color: blue;
+     /* outline-offset:5px; */
+     /* margin: 15px; */
+     outline-width: 50px;     
+  }
+  
+  
+  /* .div11::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+   */
+#p9{
+
+
+    /* align-items: center; */
+    padding: 100px;
+    font-size:30px;
+    /* font-weight: bold; */
+    /* margin-top: -100px; */
+    
+   
+}
+
+#p10{
+
+
+     /* align-items: center;   */
+     /* padding: 1px;  */
+     font-size:15px; 
+    /* font-weight: bold; */
+    /* margin-top: -0px; */
+     /* margin-right: 700px; */
+    /* margin-bottom: 50px;  */
+    /* margin: auto; */
+    /* padding-left: 50px; */
+    
+}
+ 
+#p11{
+
+
+    /* align-items: center;  */
+    /* padding: 150px;  */
+    font-size:10px; 
+   /* font-weight: bold; */
+   /* margin-top: -0px; */
+   /* margin-right: 700px;
+   margin-bottom: 50px; */
+}
+ 
+#btn6{ 
+    /* padding: 10px 20px 10px 20px;
+    background-color: rgb(9, 255, 0); 
+     font-weight: bold; 
+    /* margin-top: -500px; */
+    /* margin-bottom: 1000px; */
+     width: 150px;  
+     /* height: 60px;   */
+    /* margin-left: 150px; */
+    /* margin-right: 700px; */
+}
+.div12{
+    background-color: gray;
+    /* padding: 100px; */
+    /* margin-bottom: 100px; */
+    height: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+   
+}
+
+#body3{
+    padding: 10px;
+    margin-right: 100px;
+}
+#block8{
+    /* position: static; */
+    /* height: 80px; */
+    /* margin :50px; */
+    /* margin-top: 15px; */
+    margin-bottom: -80px;
+    /* margin-left: 250px; */
+    margin-right: 900px;
+    margin-left: 200px;
+    /* background-color: #4CAF50; */
+}
+#p12{
+    font-style: normal;
+    left: 350px;
+    position: relative;
+    float: left;
+    margin-top: 30x;
+    font-size: 55px;
+    color:rgb(6, 10, 7);
+}
+.div13{
+    background-color:rgb(47, 48, 45);
+    /* margin-bottom: 100px; */
+    height: 500px;
+    margin-top: -100px;
+    border: 10px;
+    /* margin-bottom: 1000px; */
+    outline-style: auto;
+    /* outline-color: rgb(247, 0, 255); */
+    outline-offset:5px;    
+   
+}
+.div14{
+    background-color:rgb(47, 48, 45);
+    /* margin-bottom: 100px; */
+    height: 50px; 
+    /* margin-top: -100px;
+    border: 10px; */
+    /* margin-bottom: 1000px; */
+    /* outline-style: auto;
+    outline-color: rgb(247, 0, 255);
+    outline-offset:5px;     */
+    */
+}
+#logo_img1{
+    /* margin-left: 510px;
+    margin-right: 500px; */
+    /* float: left;  */
+    /* margin-top: 10px;  */
+    /* display: inline; */
+    /* padding: 200px; */
+    width: 100px;
+}
+.column3{
+    float: left; */
+    width: 33.33%;
+     /* padding: 5px; 
+     
+
+ 
+
+.column3{
+    /* margin-right: 50px; */
+    margin-left: 100PX;
+    display: inline-block;
+}
+
+
+
+/* .column7{ */
+    /* margin-right: -50px; */
+    /* margin-left: 100px; */
+    /* display: inline-block; */
+    /* padding: 20px; */
+    /* margin-top: -500px; */
+    /* margin-bottom: 500px; */
+    /* height: -500px; */
+    /* margin: auto; */
+/* } */
+
+#p14{
+
+
+    /* align-items: center; */
+    /* padding: 100px; */
+    font-size:30px;
+    /* font-weight: bold; */
+    /* margin-top: -500px; */
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+    margin-left: 200px;
+    /* text-align: center; */
+    margin-bottom: 30px;
+    
+   
+}
+#p15{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:40px;
+    /* font-weight: bold; */
+    margin-top: -110px;
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+    margin-left: 200px;
+    /* text-align: center; */
+    margin-bottom: -80px;
+}
+#p16{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:20px;
+    /* font-weight: bold; */
+    margin-top: 120px;
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+    margin-left: 200px;
+    /* text-align: center; */
+    margin-bottom: 10px;
+}
+#p17{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:20px;
+    /* font-weight: bold; */
+    /* margin-top: 100px; */
+    /* display: inline-block; */
+    /* margin-right: 10px; */
+    margin-left: 200px;
+    /* text-align: center; */
+    margin-bottom: 50px;
+}
+#p18{
+
+
+    /* align-items: center; */
+    padding: 10px;
+    font-size:20px;
+    /* font-weight: bold; */
+    margin-top: -220px;
+    display: inline-block;
+    /* margin-right: 10px; */
+    margin-left: 600px;
+    text-align: center;
+    margin-bottom: -500px;
+}
+ul li {
+ 
+    margin: 5px;
+  }
+  #p19{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:20px;
+    /* font-weight: bold; */
+    margin-top: -220px;
+    /* display: inline-block; */
+    /* margin-right: 500px; */
+    margin-left: 800px;
+    /* text-align: center; */
+    /* margin-bottom: 500px; */
+}
+#p20{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:20px;
+    /* font-weight: bold; */
+    margin-top: 10px;
+    /* display: inline-block; */
+    /* margin-right: 500px; */
+    margin-left: 800px;
+    /* text-align: center; */
+    /* margin-bottom: 500px; */
+}
+#p21{
+
+
+    /* align-items: center; */
+    /* padding: 20px; */
+    font-size:20px;
+    /* font-weight: bold; */
+    margin-top: 10px;
+    /* display: inline-block; */
+    /* margin-right: 500px; */
+    margin-left: 800px;
+    /* text-align: center; */
+    /* margin-bottom: 500px; */
+}
+
+
+
+
+
+
+
+    
+   
+
+
+
+/* .column8{
+    background: #bea29a;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    outline-style: auto;
+    outline-color: blue;
+    outline-offset:5px;
+    margin: 15px;
+    outline-width: 50px;
+} */
+
+
+.footer{
+    /* background: #bea29a; */
+    /* width: 500px; */
+    /* height: 500px;
+    /* border-radius: 50%; */
+    /* display: flex; */
+    
+    align-items: center;
+    /* text-align: center; */
+    /* outline-style: auto; */
+    /* outline-color: blue; */
+    /* outline-offset:5px; */
+    /* margin-left: 00px; */
+    /* margin-top: 100px; */
+    margin: auto;
+    /* margin-right: 400px; */
+    /* margin-left: 30px; */
+    /* outline-width: 50px;  */
+    
+}
+
+.footer_content{
+
+        /* background: #bea29a; */
+    
+        /* width: 500px; */
+        /* height: 500px; */
+        /* border-radius: 50%; */
+        color: rgb(217, 224, 230);
+        display: inline-block;
+        align-items: center;
+        text-align: center;
+        /* outline-style: auto; */
+        /* outline-color: rgb(247, 0, 255); */
+        /* outline-offset:5px; */
+        margin: 10px;
+        margin-bottom: 200px;   
+        margin: auto;
+        /* margin-top: 200px; */
+}
+
+/* .footer{
+    background: #bea29a;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    outline-style: auto;
+    outline-color: blue;
+    outline-offset:5px;
+    margin: 15px;
+    outline-width: 50px;
+} */
+.flex-container > div {
+    /* background-color: #f1f1f1; */
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    /* line-height: 75px; */
+    font-size: 30px;
+    display: inline-block;
+  }
